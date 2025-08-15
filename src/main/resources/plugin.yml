@@ -1,0 +1,4 @@
+name: JoinQuitMessage
+version: '1.0.0'
+main: kr.sh.joinquitmessage.Main
+api-version: '1.21'
